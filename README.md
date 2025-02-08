@@ -20,17 +20,32 @@ This project analyzes Reddit posts related to bipolar disorder during the COVID-
 
 1. Clone this repository:
 
-  `git clone https://github.com/jleibson/Bipolar-COVID19-Reddit-Analysis.git`
+    `git clone https://github.com/jleibson/Bipolar-COVID19-Reddit-Analysis.git`
 
-  `cd Bipolar-COVID19-Reddit-Analysis`
+    `cd Bipolar-COVID19-Reddit-Analysis`
 
 2. Install required R packages: 
 
-`install.packages(c("tidyverse", "syuzhet", "topicmodels", "ggplot2", "plotly", "dplyr", "scales", "stringr", "lubridate", "tidyr", "readr", "textdata", "tm"))`
+    `install.packages(c("tidyverse", "syuzhet", "topicmodels", "ggplot2", "plotly", "dplyr", "scales", "stringr", "lubridate", "tidyr", "readr", "textdata", "tm"))`
 
-3. Install required Python packages:  `pip install praw pandas re nltk ssl`
+3. Install required Python packages:
 
-4. Obtain Reddit API credentials:
+    `pip install praw pandas re nltk ssl`
+    
+      It's recommended to install Python packages in a virtual environment. You can use conda:
+    ```
+    conda create -n myenv python=3.x
+    conda activate myenv
+    conda install --file requirements.txt`
+    ```
+      Next, download the required data with nltk:
+    ````
+    import nltk
+    nltk.download('punkt')
+    nltk.download('wordnet')
+    nltk.download('stopwords')
+    ```` 
+6. Obtain Reddit API credentials:
     - Create a Reddit account if you don't have one already.
     - Go to https://old.reddit.com/prefs/apps/
     - Scroll down and click on "create application".
@@ -38,13 +53,13 @@ This project analyzes Reddit posts related to bipolar disorder during the COVID-
     - Set the redirect URI to http://localhost:8080
     - After creation, you'll receive your client ID and client secret.
 
-5. Replace the placeholder values in `reddit_bipolar_data.py` with your actual Reddit API credentials.
+7. Replace the placeholder values in `reddit_bipolar_data.py` with your actual Reddit API credentials.
 
-  ```
-  client_id = "YOUR_CLIENT_ID"
-  client_secret = "YOUR_CLIENT_SECRET"
-  user_agent = "YOUR_USER_AGENT"
-  ```
+    ```
+    client_id = "YOUR_CLIENT_ID"
+    client_secret = "YOUR_CLIENT_SECRET"
+    user_agent = "YOUR_USER_AGENT"
+    ```
 ## Code Structure
 - reddit_bipolar_data.py: Functions to collect and preprocess Reddit data
 - bipolar_covid_analysis.R: Core analysis functions including sentiment analysis, emotion detection, and topic modeling
