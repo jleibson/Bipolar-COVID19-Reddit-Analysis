@@ -68,7 +68,10 @@ This project analyzes the impact of the COVID-19 pandemic on individuals with bi
 
 ## Results and Visualization
 Our analysis revealed a declining trend in sentiment over the course of the pandemic. Here's a sample visualization of this trend:
-![image](https://github.com/user-attachments/assets/b3510ac2-8244-4f7c-95dc-3e5758a72c0f)
+
+
+![image](https://github.com/user-attachments/assets/0125184a-aea3-4701-89de-f6e5e726b67c)
+
 
 
 ## Significance and Conclusion
