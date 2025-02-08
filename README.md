@@ -35,7 +35,7 @@ This project analyzes the impact of the COVID-19 pandemic on individuals with bi
 - Clone this repository: `git clone https://github.com/jleibson/Bipolar-COVID19-Reddit-Analysis.git`
 - Navigate to the project directory: `cd Bipolar-COVID19-Reddit-Analysis`
 - Install required Python packages: `pip install praw pandas`
-- Install required R packages: 'install.packages(c("tidyverse", "syuzhet", "topicmodels", "ggplot2", "plotly"))'
+- Install required R packages: `install.packages(c("tidyverse", "syuzhet", "topicmodels", "ggplot2", "plotly"))`
 
 
 ## Usage
