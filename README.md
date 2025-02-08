@@ -6,7 +6,7 @@ Email: joseph.leibson@gmail.com
 
 ## Project Description
 
-This project analyzes Reddit posts related to bipolar disorder during the COVID-19 pandemic. It aims to understand how the pandemic has affected individuals with bipolar disorder by examining trends in Reddit discussions. The analysis includes sentiment analysis and topic modeling of relevant posts.
+This project analyzes Reddit posts related to bipolar disorder during the COVID-19 pandemic. It aims to understand how the pandemic has affected individuals with bipolar disorder by examining trends in Reddit discussions. The analysis includes sentiment analysis and topic modeling of relevant posts. This project uses Python to collect and preprocess data from Reddit, and R to analyze and visualize this collected data.
 
 ## Setup and Installation
 
