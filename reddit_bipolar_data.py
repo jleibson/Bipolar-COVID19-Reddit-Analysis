@@ -24,9 +24,9 @@ from nltk.tokenize import word_tokenize
 stop_words = set(stopwords.words('english'))
 
 # Initialize Reddit API client
-reddit = praw.Reddit(client_id='-OmT9zxMU9nYXQIiTdGgEA',
-                     client_secret='7z-ApyhH_e-J4-NeiCzraGfFNqqnGA',
-                     user_agent='MyApp/1.0 by No-Information-4841')
+reddit = praw.Reddit(client_id='YOUR_CLIENT_ID',
+                     client_secret='YOUR_CLEINT_SECRET',
+                     user_agent='YOUR_USER_AGENT')
 
 # Scrape posts from r/bipolar
 subreddit = reddit.subreddit('bipolar')
