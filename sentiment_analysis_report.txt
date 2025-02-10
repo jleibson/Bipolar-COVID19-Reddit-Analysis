@@ -1,0 +1,155 @@
+Sentiment Analysis Report for Bipolar Subreddit COVID-19 Posts
+
+===========================================================
+
+
+Overall Sentiment Statistics:
+
+Mean Sentiment: -1.36
+Standard Deviation: 3.51
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Descriptive Statistics for Post-Pandemic Period:
+
+Mean Sentiment: -1.4
+Median Sentiment: -1.52
+Standard Deviation: 3.52
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Top 5 Most Frequent Words:
+
+covid, bipolar, manic, episode, like
+
+Dominant Emotions:
+
+sadness, trust, anticipation
+
+Key Topics Identified:
+
+Topic 1
+Sentiment Analysis Report for Bipolar Subreddit COVID-19 Posts
+
+===========================================================
+
+
+Overall Sentiment Statistics:
+
+Mean Sentiment: -1.36
+Standard Deviation: 3.51
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Descriptive Statistics for Post-Pandemic Period:
+
+Mean Sentiment: -1.4
+Median Sentiment: -1.52
+Standard Deviation: 3.52
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Top 5 Most Frequent Words:
+
+covid, bipolar, manic, episode, like
+
+Dominant Emotions:
+
+sadness, trust, anticipation
+
+Key Topics Identified:
+
+Topic 2
+Sentiment Analysis Report for Bipolar Subreddit COVID-19 Posts
+
+===========================================================
+
+
+Overall Sentiment Statistics:
+
+Mean Sentiment: -1.36
+Standard Deviation: 3.51
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Descriptive Statistics for Post-Pandemic Period:
+
+Mean Sentiment: -1.4
+Median Sentiment: -1.52
+Standard Deviation: 3.52
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Top 5 Most Frequent Words:
+
+covid, bipolar, manic, episode, like
+
+Dominant Emotions:
+
+sadness, trust, anticipation
+
+Key Topics Identified:
+
+Topic 3
+Sentiment Analysis Report for Bipolar Subreddit COVID-19 Posts
+
+===========================================================
+
+
+Overall Sentiment Statistics:
+
+Mean Sentiment: -1.36
+Standard Deviation: 3.51
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Descriptive Statistics for Post-Pandemic Period:
+
+Mean Sentiment: -1.4
+Median Sentiment: -1.52
+Standard Deviation: 3.52
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Top 5 Most Frequent Words:
+
+covid, bipolar, manic, episode, like
+
+Dominant Emotions:
+
+sadness, trust, anticipation
+
+Key Topics Identified:
+
+Topic 4
+Sentiment Analysis Report for Bipolar Subreddit COVID-19 Posts
+
+===========================================================
+
+
+Overall Sentiment Statistics:
+
+Mean Sentiment: -1.36
+Standard Deviation: 3.51
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Descriptive Statistics for Post-Pandemic Period:
+
+Mean Sentiment: -1.4
+Median Sentiment: -1.52
+Standard Deviation: 3.52
+Minimum Sentiment: -8.1
+Maximum Sentiment: 10.15
+
+Top 5 Most Frequent Words:
+
+covid, bipolar, manic, episode, like
+
+Dominant Emotions:
+
+sadness, trust, anticipation
+
+Key Topics Identified:
+
+Topic 5
